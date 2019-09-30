@@ -45,7 +45,7 @@
 ## RELEASE NOTE
 ### v1.2
 + 代码风格的统一化
-+ 一些小bug的修正
++ 一些小 bug 的修正
 
   
 ### v1.1
@@ -53,7 +53,7 @@
 + 图片名称加入了answer_id，使图片按源答案分类排序。
 
 ### v1.0
-+ 修正size变量错误
++ 修正 size 变量错误
 + 将 title 和 question_id 改为外部输入
 ## LINKS
 
